@@ -1,0 +1,15 @@
+"E:\mysoft\IAR Systems\Embedded Workbench 8.2\arm\bin\armproc.dll" 
+
+"E:\mysoft\IAR Systems\Embedded Workbench 8.2\arm\bin\armjlink2.dll" 
+
+"E:\projects\stm32-cube\stm32_sram\EWARM\stm32_sram\Exe\stm32_sram.out" 
+
+--plugin="E:\mysoft\IAR Systems\Embedded Workbench 8.2\arm\bin\armbat.dll" 
+
+--device_macro="E:\mysoft\IAR Systems\Embedded Workbench 8.2\arm\config\debugger\ST\STM32F4xx.dmac" 
+
+--flash_loader="E:\mysoft\IAR Systems\Embedded Workbench 8.2\arm\config\flashloader\ST\FlashSTM32F4xxx.board" 
+
+
+
+
